@@ -1,5 +1,2 @@
-# This is my first repo
-
+# This my first repo
 ## My name is Chattarin
-
-## Rin55
